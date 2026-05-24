@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/css/main.fc9d3a34.css",
+    "main.js": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/js/main.238eec78.js",
+    "static/js/453.666a2c09.chunk.js": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/js/453.666a2c09.chunk.js",
+    "index.html": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/index.html",
+    "main.fc9d3a34.css.map": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/css/main.fc9d3a34.css.map",
+    "main.238eec78.js.map": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/js/main.238eec78.js.map",
+    "453.666a2c09.chunk.js.map": "/Ademola-kehinde-hannah/tic-tac-toe-app.git/static/js/453.666a2c09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc9d3a34.css",
+    "static/js/main.238eec78.js"
+  ]
+}
